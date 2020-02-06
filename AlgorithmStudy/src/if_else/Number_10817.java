@@ -1,4 +1,4 @@
-package problem;
+package if_else;
 
 import java.util.Arrays;
 import java.util.Scanner;
