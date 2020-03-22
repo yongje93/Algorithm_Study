@@ -2,7 +2,7 @@ package string;
 
 public class Solution3 {
 	public int solution(String s) {
-		int answer = 0;
+		int answer = Integer.parseInt(s);
 		return answer;
 	}
 
